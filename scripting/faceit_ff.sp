@@ -24,10 +24,6 @@ public void OnPluginStart()
 	}
 }
 
-public void OnCvarEnableChange(ConVar convar, char[] oldValue, char[] newValue){
-	
-}
-
 public void OnClientPutInServer(int client)
 {
 	SDKHook(client, SDKHook_TraceAttack, SDK_OnTraceAttack);
