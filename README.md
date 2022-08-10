@@ -1,7 +1,7 @@
 
 # Faceit Friendly Fire
 
-A plugin which blocks friendly fire damage from all type of weapons except for molotov, incendary or hegrenades just like in Faceit
+A sourcemod plugin which blocks friendly fire damage from all type of weapons except for molotov, incendary or hegrenades just like in Faceit
 
 It is clear by name that it was meant to use in community 5v5 server for making faceit like damage system
 
